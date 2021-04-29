@@ -1,7 +1,11 @@
 * Chickadee
 ** Usage
 
-A LISP wrapper to the Twitter API
+A LISP wrapper to the updated Twitter API 2.0
+
+** Status
+
+[2021-04-29]: Not working at all right now, no functionality yet added
 
 ** License
 
