@@ -1,0 +1,11 @@
+* Chickadee
+** Usage
+
+A LISP wrapper to the Twitter API
+
+** License
+
+** Author
+
+Patrick Bunetic <soup-jingle@protonmail.com>
+
